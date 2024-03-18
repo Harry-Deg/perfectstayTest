@@ -1,0 +1,101 @@
+product_id,product_name,category,purchase_price
+1,Product_1,Sports & Outdoors,460.14
+2,Product_2,Clothing,150.18
+3,Product_3,Toys & Games,20.07
+4,Product_4,Toys & Games,66.08
+5,Product_5,Electronics,297.49
+6,Product_6,Electronics,436.99
+7,Product_7,Electronics,382.36
+8,Product_8,Electronics,377.57
+9,Product_9,Electronics,466.88
+10,Product_10,Home & Kitchen,484.63
+11,Product_11,Toys & Games,408.41
+12,Product_12,Sports & Outdoors,487.46
+13,Product_13,Clothing,277.53
+14,Product_14,Home & Kitchen,477.54
+15,Product_15,Clothing,68.92
+16,Product_16,Clothing,55.26
+17,Product_17,Electronics,200.46
+18,Product_18,Sports & Outdoors,189.92
+19,Product_19,Toys & Games,447.27
+20,Product_20,Sports & Outdoors,24.47
+21,Product_21,Home & Kitchen,108.31
+22,Product_22,Clothing,37.87
+23,Product_23,Sports & Outdoors,45.12
+24,Product_24,Clothing,128.72
+25,Product_25,Electronics,361.1
+26,Product_26,Toys & Games,206.9
+27,Product_27,Sports & Outdoors,132.4
+28,Product_28,Clothing,182.78
+29,Product_29,Toys & Games,276.61
+30,Product_30,Home & Kitchen,308.34
+31,Product_31,Electronics,436.14
+32,Product_32,Clothing,394.19
+33,Product_33,Electronics,337.1
+34,Product_34,Home & Kitchen,368.31
+35,Product_35,Electronics,232.53
+36,Product_36,Sports & Outdoors,236.94
+37,Product_37,Sports & Outdoors,242.99
+38,Product_38,Electronics,402.62
+39,Product_39,Home & Kitchen,344.48
+40,Product_40,Electronics,426.29
+41,Product_41,Sports & Outdoors,73.1
+42,Product_42,Clothing,11.6
+43,Product_43,Sports & Outdoors,432.18
+44,Product_44,Home & Kitchen,333.77
+45,Product_45,Clothing,168.63
+46,Product_46,Toys & Games,324.69
+47,Product_47,Sports & Outdoors,22.54
+48,Product_48,Home & Kitchen,460.79
+49,Product_49,Toys & Games,333.61
+50,Product_50,Clothing,72.83
+51,Product_51,Sports & Outdoors,334.81
+52,Product_52,Sports & Outdoors,321.16
+53,Product_53,Toys & Games,214.06
+54,Product_54,Sports & Outdoors,433.07
+55,Product_55,Home & Kitchen,361.23
+56,Product_56,Sports & Outdoors,457.23
+57,Product_57,Clothing,348.23
+58,Product_58,Sports & Outdoors,78.01
+59,Product_59,Sports & Outdoors,106.43
+60,Product_60,Sports & Outdoors,318.92
+61,Product_61,Electronics,347.51
+62,Product_62,Home & Kitchen,122.72
+63,Product_63,Sports & Outdoors,351.76
+64,Product_64,Clothing,496.23
+65,Product_65,Sports & Outdoors,213.03
+66,Product_66,Toys & Games,72.35
+67,Product_67,Sports & Outdoors,144.91
+68,Product_68,Sports & Outdoors,208.91
+69,Product_69,Electronics,270.67
+70,Product_70,Sports & Outdoors,153.54
+71,Product_71,Electronics,443.3
+72,Product_72,Electronics,458.17
+73,Product_73,Toys & Games,187.54
+74,Product_74,Home & Kitchen,421.17
+75,Product_75,Electronics,86.56
+76,Product_76,Electronics,45.77
+77,Product_77,Clothing,209.11
+78,Product_78,Home & Kitchen,238.22
+79,Product_79,Toys & Games,319.33
+80,Product_80,Toys & Games,424.05
+81,Product_81,Sports & Outdoors,412.82
+82,Product_82,Toys & Games,32.73
+83,Product_83,Sports & Outdoors,54.27
+84,Product_84,Clothing,419.8
+85,Product_85,Sports & Outdoors,9.29
+86,Product_86,Home & Kitchen,87.09
+87,Product_87,Home & Kitchen,404.6
+88,Product_88,Sports & Outdoors,34.54
+89,Product_89,Home & Kitchen,217.09
+90,Product_90,Electronics,347.7
+91,Product_91,Home & Kitchen,95.89
+92,Product_92,Sports & Outdoors,167.96
+93,Product_93,Electronics,429.7
+94,Product_94,Toys & Games,342.59
+95,Product_95,Toys & Games,386.71
+96,Product_96,Sports & Outdoors,90.45
+97,Product_97,Toys & Games,441.96
+98,Product_98,Sports & Outdoors,119.3
+99,Product_99,Toys & Games,243.08
+100,Product_100,Home & Kitchen,45.97

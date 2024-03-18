@@ -1,0 +1,101 @@
+customer_id,region,Favorite_Category,Total_Spent,Favorite_Product,Purchase_Frequency
+1,West,Electronics,263177.1,Product_69,11.728260869565217
+2,West,Sports & Outdoors,367207.05,Product_23,9.469026548672566
+3,East,Sports & Outdoors,194533.22,Product_2,13.753246753246753
+4,North,Sports & Outdoors,272747.69,Product_70,10.384615384615385
+5,Central,Sports & Outdoors,284536.08,Product_78,10.342857142857143
+6,West,Sports & Outdoors,264303.81,Product_65,11.434782608695652
+7,West,Sports & Outdoors,252748.25,Product_26,10.929292929292929
+8,South,Sports & Outdoors,231214.34,Product_21,11.709677419354838
+9,West,Electronics,264628.65,Product_10,11.216494845360824
+10,South,Electronics,303700.05,Product_5,10.228571428571428
+11,East,Sports & Outdoors,337345.89,Product_13,9.008264462809917
+12,West,Sports & Outdoors,251131.13,Product_14,11.494623655913978
+13,South,Sports & Outdoors,254181.38,Product_37,10.717171717171718
+14,West,Sports & Outdoors,192807.4,Product_9,13.759493670886076
+15,North,Sports & Outdoors,284501.71,Product_13,10.79
+16,West,Sports & Outdoors,241575.9,Product_75,10.05607476635514
+17,West,Sports & Outdoors,279263.7,Product_92,10.696078431372548
+18,South,Sports & Outdoors,253730.21,Product_50,11.15625
+19,North,Electronics,234922.38,Product_40,13.818181818181818
+20,West,Home & Kitchen,295777.25,Product_44,11.945054945054945
+21,East,Home & Kitchen,267284.85,Product_2,11.260416666666666
+22,West,Sports & Outdoors,331320.03,Product_74,10.216981132075471
+23,Central,Sports & Outdoors,319440.35,Product_76,10.431372549019608
+24,Central,Sports & Outdoors,296690.11,Product_60,11.357894736842105
+25,East,Sports & Outdoors,330833.35,Product_70,10.055555555555555
+26,North,Sports & Outdoors,271779.57,Product_84,10.592233009708737
+27,Central,Sports & Outdoors,297026.62,Product_42,10.423076923076923
+28,South,Sports & Outdoors,204482.54,Product_16,14.03896103896104
+29,East,Electronics,251677.07,Product_2,11.966666666666667
+30,North,Sports & Outdoors,172861.35,Product_90,11.955056179775282
+31,Central,Sports & Outdoors,339483.2,Product_64,11.123711340206185
+32,North,Electronics,285099.17,Product_100,12.191011235955056
+33,East,Sports & Outdoors,247566.32,Product_59,11.237113402061855
+34,East,Sports & Outdoors,241565.37,Product_10,10.82
+35,East,Home & Kitchen,302517.85,Product_48,10.150943396226415
+36,East,Sports & Outdoors,249091.38999999998,Product_92,10.54
+37,East,Sports & Outdoors,356072.84,Product_45,10.423076923076923
+38,Central,Sports & Outdoors,263342.33,Product_54,10.712871287128714
+39,North,Sports & Outdoors,217827.44,Product_31,13.160493827160494
+40,Central,Sports & Outdoors,322142.55,Product_86,10.504854368932039
+41,Central,Sports & Outdoors,241107.91,Product_17,11.27659574468085
+42,East,Sports & Outdoors,365728.84,Product_44,8.238461538461538
+43,East,Sports & Outdoors,322639.15,Product_72,10.304761904761905
+44,South,Sports & Outdoors,282101.29,Product_34,11.46808510638298
+45,North,Sports & Outdoors,317389.47,Product_54,10.046296296296296
+46,North,Sports & Outdoors,284122.42,Product_82,10.979591836734693
+47,East,Sports & Outdoors,257875.08000000002,Product_27,11.239583333333334
+48,East,Sports & Outdoors,331022.27,Product_41,9.754545454545454
+49,Central,Sports & Outdoors,287415.91,Product_26,11.103092783505154
+50,North,Sports & Outdoors,278230.16,Product_75,11.148936170212766
+51,South,Sports & Outdoors,233071.27,Product_6,11.637362637362637
+52,Central,Sports & Outdoors,304007.14,Product_15,11.177083333333334
+53,South,Sports & Outdoors,254126.51,Product_39,11.483516483516484
+54,North,Sports & Outdoors,289279.58,Product_92,10.5
+55,Central,Sports & Outdoors,279962.5,Product_70,10.242718446601941
+56,West,Sports & Outdoors,322517.9,Product_6,9.854545454545455
+57,East,Sports & Outdoors,196531.3,Product_20,13.121951219512194
+58,South,Sports & Outdoors,221802.08,Product_47,11.505494505494505
+59,West,Home & Kitchen,239771.87,Product_89,11.923076923076923
+60,South,Sports & Outdoors,272231.42,Product_15,11.673913043478262
+61,Central,Home & Kitchen,218599.72,Product_55,12.627906976744185
+62,South,Sports & Outdoors,310855.04,Product_69,10.584158415841584
+63,North,Sports & Outdoors,261030.09,Product_40,11.072164948453608
+64,South,Electronics,290462.16000000003,Product_69,10.908163265306122
+65,West,Sports & Outdoors,301547.86,Product_31,9.863636363636363
+66,East,Sports & Outdoors,297520.89,Product_51,11.01010101010101
+67,Central,Home & Kitchen,329391.18,Product_80,10.693069306930694
+68,South,Sports & Outdoors,226604.44,Product_51,11.822222222222223
+69,North,Sports & Outdoors,269514.8,Product_90,11.071428571428571
+70,South,Sports & Outdoors,302872.53,Product_29,10.027777777777779
+71,North,Sports & Outdoors,207202.4,Product_10,12.129411764705882
+72,East,Sports & Outdoors,232289.74,Product_63,12.855421686746988
+73,North,Sports & Outdoors,262400.98,Product_56,10.913978494623656
+74,West,Sports & Outdoors,327735.27,Product_68,9.598214285714286
+75,North,Electronics,294993.09,Product_42,8.892561983471074
+76,East,Home & Kitchen,284282.91,Product_59,12.101123595505618
+77,South,Sports & Outdoors,301374.77,Product_93,9.809090909090909
+78,North,Sports & Outdoors,302965.17,Product_34,10.435643564356436
+79,West,Sports & Outdoors,247930.17,Product_97,10.568627450980392
+80,North,Sports & Outdoors,286475.52,Product_81,9.761467889908257
+81,West,Sports & Outdoors,295876.35,Product_28,9.743119266055047
+82,North,Electronics,312556.74,Product_90,10.08411214953271
+83,West,Sports & Outdoors,353580.75,Product_57,8.940677966101696
+84,East,Sports & Outdoors,231739.85,Product_9,11.46808510638298
+85,Central,Sports & Outdoors,301763.43,Product_59,9.464912280701755
+86,Central,Sports & Outdoors,265538.66,Product_37,11.75
+87,North,Sports & Outdoors,309770.71,Product_4,9.318965517241379
+88,Central,Sports & Outdoors,297126.94,Product_39,10.237623762376238
+89,South,Sports & Outdoors,256441.6,Product_40,11.092783505154639
+90,West,Sports & Outdoors,273469.04,Product_74,10.744897959183673
+91,East,Sports & Outdoors,334784.75,Product_98,9.083333333333334
+92,North,Sports & Outdoors,272492.18,Product_50,10.43
+93,Central,Sports & Outdoors,359127.65,Product_23,10.156862745098039
+94,West,Sports & Outdoors,334221.3,Product_26,8.434108527131784
+95,North,Sports & Outdoors,261514.38999999998,Product_74,11.347826086956522
+96,West,Sports & Outdoors,258842.58000000002,Product_83,12.044444444444444
+97,East,Sports & Outdoors,274739.69,Product_67,10.233009708737864
+98,East,Sports & Outdoors,208539.65,Product_81,12.204545454545455
+99,West,Sports & Outdoors,226748.54,Product_70,13.615384615384615
+100,South,Sports & Outdoors,248039.03,Product_10,11.695652173913043
