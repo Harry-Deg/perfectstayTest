@@ -2,6 +2,39 @@
 
 * Rendu Test Perfectstay
 
-* Test amusant
+== Notice
+
+* Follow the steps, execute scripts in this order
+
+* SQLite database (Sales.db)
+
+.1 Environment Setup
+```bash
+// SQLite3 already included
+pip3 install pandas
+// unittest already included
+
+```
+
+.2 Data Import
+```bash
+python3 data_import.py
+```
+
+.3 First Query: 'Sales Report'
+```bash
+python3 first_query.py
+```
+
+.4 Second Query: 'Customer Analysis'
+```bash
+python3 second_query.py
+```
+
+.5. Unit Tests
+```bash
+python3 unit_tests.py
+```
+
 
 NOTE: By Harry (C)
